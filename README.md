@@ -1,5 +1,5 @@
 hello world. i am experienced programmer. i have skills in html, js, python, ruby, unix, php, sql.
-if you need help with project, pm me: sexilexi588@xmpp.jp
+if you need help with project, pm me: sexilexi588@xmpp.jp, or email: smirovalexa@gmail.com
 
 #red_dawn ;)
 
